@@ -25,7 +25,7 @@
       </a>
     </td>
     <td align="center" width="80">
-        <img src="./images/techStack/react_1.png" width="70" height="48" alt="React" />
+        <img src="./images/techStack/react.png" width="70" height="48" alt="React" />
       </a>
     </td>
     <td align="center" width="80">
@@ -36,8 +36,8 @@
         <img src="./images/techStack/graphql.png" width="48" height="48" alt="Graphql" />
       </a>
     </td>
-    <td align="center" width="150">
-        <img src="./images/techStack/aws2.png" width="120" height="60" alt="AWS" />
+    <td align="center" width="100">
+        <img src="./images/techStack/aws.jpg" width="100" height="100" alt="AWS" />
       </a>
     </td>
     <td align="center" width="80">
@@ -45,7 +45,7 @@
       </a>
     </td>
     <td align="center" width="80">
-        <img src="./images/techStack/ionic2.png" width="70" height="48" alt="Ionic" />
+        <img src="./images/techStack/ionic.png" width="70" height="48" alt="Ionic" />
       </a>
     </td>
     <td align="center" width="80">
@@ -53,7 +53,7 @@
       </a>
     </td>
     <td align="center" width="150">
-        <img src="./images/techStack/postgres.png" width="130" height="80" alt="Postgres" />
+        <img src="./images/techStack/postgres.png" width="150" height="80" alt="Postgres" />
       </a>
     </td>
   </tr>
