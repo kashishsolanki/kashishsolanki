@@ -11,7 +11,7 @@
 - 🔭 I’m currently working at **[Digital Trons](https://www.digitaltrons.com/)**
 - 🌱 I’m currently exploring new things in technology 😅
 - 💬 Ask me about **JavaScript/TypeScript, AWS, Graphql**
-- 📫 How to reach me: [kashishsolanki](hhttps://www.linkedin.com/in/kashishsolanki/) on LinkedIn
+- 📫 How to reach me: [kashishsolanki](https://www.linkedin.com/in/kashishsolanki/) on LinkedIn
 - ✨ Fun fact: Big Fan of the MarvelStudios
 
 -------
