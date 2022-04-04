@@ -36,8 +36,8 @@
         <img src="./images/techStack/graphql.png" width="48" height="48" alt="Graphql" />
       </a>
     </td>
-    <td align="center" width="100">
-        <img src="./images/techStack/aws.jpg" width="100" height="100" alt="AWS" />
+    <td align="center" width="80">
+        <img src="./images/techStack/aws.png" width="80" height="40" alt="AWS" />
       </a>
     </td>
     <td align="center" width="80">
@@ -52,8 +52,8 @@
         <img src="./images/techStack/mongodb.png" width="60" height="48" alt="MongoDB" />
       </a>
     </td>
-    <td align="center" width="150">
-        <img src="./images/techStack/postgres.png" width="150" height="80" alt="Postgres" />
+    <td align="center" width="80">
+        <img src="./images/techStack/postgres.svg" width="80" height="80" alt="Postgres" />
       </a>
     </td>
   </tr>
